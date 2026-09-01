@@ -1,0 +1,1 @@
+okey, I want this repo to be a simple cli command writen in go using bubble tea that emulates the clock football game. one tick starts the game , if 00 is goal. 2 players, one color each. Right now this repo is empty. I want you right now to just write a README.md file that contains highlevel of what this project will have in the future.

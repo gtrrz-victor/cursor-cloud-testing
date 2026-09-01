@@ -1,0 +1,55 @@
+{
+  "cli_version": "0.10.3",
+  "checkpoint_id": "01M1EHV14HWE9SBXQXY7Y0PP1N",
+  "session_id": "2b4d53ac-dce9-4ccb-871e-14e9fa42977b",
+  "strategy": "manual-commit",
+  "created_at": "2026-09-01T13:16:50.981075Z",
+  "branch": "cursor/clock-football-readme",
+  "checkpoints_count": 1,
+  "save_step_count": 1,
+  "files_touched": [
+    "README.md"
+  ],
+  "agent": "Cursor",
+  "model": "cursor-grok-4.6-high-fast",
+  "turn_id": "e04d9ee2d268",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 25281,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 72064,
+    "output_tokens": 1226,
+    "api_call_count": 1
+  },
+  "session_metrics": {
+    "turn_count": 1
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-09-01T13:16:50.977213Z",
+    "agent_lines": 39,
+    "agent_removed": 1,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 39,
+    "total_lines_changed": 40,
+    "agent_percentage": 100,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 1,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0
+    },
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 0,
+      "user_lines_removed": 0,
+      "agent_lines_added": 39,
+      "agent_lines_removed": 1
+    }
+  ]
+}
