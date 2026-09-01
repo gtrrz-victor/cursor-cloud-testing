@@ -1,1 +1,13 @@
-okey, I want this repo to be a simple cli command writen in go using bubble tea that emulates the clock football game. one tick starts the game , if 00 is goal. 2 players, one color each. Right now this repo is empty. I want you right now to just write a README.md file that contains highlevel of what this project will have in the future.
+- First create and check out a new informatively named branch for this work.
+- Use the configured branch name prefix "cursor/" (for example, "cursor/short-description").
+Stage the changes you worked on and create a commit for this branch.
+- Current branch: main.
+- Base branch: main.
+- Stage the changes you worked on.
+- If there are unrelated files or changes, exclude them.
+- Write a concise commit message.
+- Do not push.
+- Do not include unrelated files in the commit.
+<timestamp>Tuesday, Sep 1, 2026, 3:16 PM (UTC+2)</timestamp>
+
+Execute the selected diff-tab create-branch-and-commit action.
